@@ -11,8 +11,8 @@
     "url": "git+https://github.com/feitian124/feishu-bot.git"
   },
   "website": "https://github.com/feitian124/feishu-bot",
-  "author": "moncici007",
-  "license": "ISC",
+  "author": "feitian124",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/feitian124/feishu-bot/issues"
   },
