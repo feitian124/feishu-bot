@@ -1,0 +1,26 @@
+{
+  "name": "feishu-bot",
+  "version": "1.0.0",
+  "description": "feishu notify bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feitian124/feishu-bot"
+  },
+  "website": "https://github.com/feitian124/feishu-bot",
+  "author": "moncici007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feitian124/feishu-bot/issues"
+  },
+  "homepage": "https://github.com/feitian124/feishu-bot",
+  "dependencies": {
+    "@moncici/log": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "https": "^1.0.0"
+  },
+  "type": "module"
+}
